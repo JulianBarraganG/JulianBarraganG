@@ -1,1 +1,1 @@
-[![Top Langs](https://vercel-for-readme-stats-git-main-julianbarragangs-projects.vercel.app/api/top-langs/?username=JulianBarraganG)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" width="60%" src="https://vercel-for-readme-stats-git-main-julianbarragangs-projects.vercel.app/api/top-langs/?username=JulianBarraganG&hide=jupyter%20notebook&hide_border=true&hide_title=true&text_color=434d58&bg_color=00000000&langs_count=10&layout=compact">
